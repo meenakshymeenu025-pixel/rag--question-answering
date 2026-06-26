@@ -1,0 +1,40 @@
+/* ==================================================
+   DocMind AI Theme
+================================================== */
+
+:root{
+
+    /* Backgrounds */
+    --bg-color:#0F172A;
+    --sidebar:#111827;
+    --card:#1E293B;
+    --card-hover:#263449;
+
+    /* Brand */
+    --primary:#7C3AED;
+    --primary-hover:#8B5CF6;
+
+    /* Text */
+    --text:#F8FAFC;
+    --text-light:#CBD5E1;
+    --text-muted:#94A3B8;
+
+    /* Borders */
+    --border:#334155;
+
+    /* Status */
+    --success:#10B981;
+    --warning:#F59E0B;
+    --danger:#EF4444;
+
+    /* Radius */
+    --radius:16px;
+
+    /* Shadows */
+    --shadow:
+        0 10px 30px rgba(0,0,0,.35);
+
+    /* Animation */
+
+    --transition:.25s ease;
+}
