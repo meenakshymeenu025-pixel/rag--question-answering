@@ -47,7 +47,7 @@ Context-aware answer generated from retrieved data
 ### Installation
 
 # 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/meenakshymeenu025-pixel/rag--question-answering
 
 # 2. Navigate to project folder
 cd your-repo-name
